@@ -1,7 +1,10 @@
  ![jobsailor](https://github.com/GoliathReaper/JobSailor/assets/77969919/f3003461-ea38-4f35-9692-7925b24034af)
 
 
- <a href="url"><img src="https://github.com/GoliathReaper/JobSailor/assets/77969919/f3003461-ea38-4f35-9692-7925b24034af" align="left" height="48" width="48" ></a>
+<a href="url"><img src="https://github.com/GoliathReaper/JobSailor/assets/77969919/f3003461-ea38-4f35-9692-7925b24034af" align="centre" height="80" width="80" ></a>
+
+
+
 <img src="https://github.com/GoliathReaper/JobSailor/assets/77969919/f3003461-ea38-4f35-9692-7925b24034af" width="48">
 
 
