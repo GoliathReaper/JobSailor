@@ -1,7 +1,9 @@
+![jobsailor](https://github.com/GoliathReaper/JobSailor/assets/77969919/f3003461-ea38-4f35-9692-7925b24034af =250x250)
+
+
+
+
 # JobSailor
-![jobsailor](https://github.com/GoliathReaper/JobSailor/assets/77969919/f3003461-ea38-4f35-9692-7925b24034af)
-
-
 
 Apply to Naukri jobs automatically! Naukri Job Apply Bot makes job hunting easier. It uses a Python script to browse Naukri.com, apply to jobs, and even answer questions during the application process. Say goodbye to manual job applications and save time!
 
