@@ -1,8 +1,7 @@
 <a href="url"><img src="https://github.com/GoliathReaper/JobSailor/assets/77969919/f3003461-ea38-4f35-9692-7925b24034af" align="centre" width="800" ></a>
 
 
-<iframe width="853" height="480" src="https://www.youtube.com/embed/emFERSfJDAU" title="jobsail" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+[![IMAGE ALT TEXT HERE]()](https://youtu.be/emFERSfJDAU)
 
 # JobSailor
 
