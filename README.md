@@ -12,6 +12,8 @@ Apply to Naukri jobs automatically! Naukri Job Apply Bot makes job hunting easie
 
 This script automates the process of applying to jobs listed on Naukri.com. It uses Selenium WebDriver to navigate the Naukri website, locate job listings, and submit job applications. Additionally, it interacts with the Gemini AI to answer questions that may be part of the job application process.
 
+
+## Video Showcase
 [![YouTube](http://i.ytimg.com/vi/emFERSfJDAU/hqdefault.jpg)](https://www.youtube.com/watch?v=emFERSfJDAU)
 
 ## Features
