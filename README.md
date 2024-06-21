@@ -1,13 +1,6 @@
 <a href="url"><img src="https://github.com/GoliathReaper/JobSailor/assets/77969919/f3003461-ea38-4f35-9692-7925b24034af" align="centre" width="800" ></a>
 
 
-<object width="425" height="350">
-  <param name="movie" value="http://www.youtube.com/user/wwwLoveWatercom?v=BTRN1YETpyg" />
-  <param name="wmode" value="transparent" />
-  <embed src="http://www.youtube.com/user/wwwLoveWatercom?v=BTRN1YETpyg"
-         type="application/x-shockwave-flash"
-         wmode="transparent" width="425" height="350" />
-</object>
 
 
 
@@ -19,7 +12,7 @@ Apply to Naukri jobs automatically! Naukri Job Apply Bot makes job hunting easie
 
 This script automates the process of applying to jobs listed on Naukri.com. It uses Selenium WebDriver to navigate the Naukri website, locate job listings, and submit job applications. Additionally, it interacts with the Gemini AI to answer questions that may be part of the job application process.
 
-[![JobSail](https://img.youtube.com/vi/emFERSfJDAU/sddefault.jpg)](https://youtu.be/emFERSfJDAU)
+[![YouTube](http://i.ytimg.com/vi/emFERSfJDAU/hqdefault.jpg)](https://www.youtube.com/watch?v=emFERSfJDAU)
 
 ## Features
 
