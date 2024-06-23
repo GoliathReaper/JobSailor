@@ -35,7 +35,7 @@ Before you begin, ensure you have met the following requirements:
 - `selenium` library installed (`pip install selenium`)
 - Firefox browser installed
 - Geckodriver executable compatible with your Firefox version
-- Gemini AI API credentials (assuming you have a module `bard_ai_chat_bot` to handle the API requests)
+- Gemini AI API credentials ([Gemini AI API](https://ai.google.dev/gemini-api/docs/api-key))
 
 ## Setup Instructions
 
