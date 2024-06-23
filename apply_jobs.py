@@ -5,7 +5,7 @@ from selenium.webdriver.firefox.firefox_profile import FirefoxProfile
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
-from bard_ai_chat_bot import bard_flash_response
+from gemini_api import bard_flash_response
 import time
 import csv
 
